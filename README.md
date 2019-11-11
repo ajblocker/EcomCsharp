@@ -8,8 +8,11 @@ Project 4 CSharp Ecommerce Admin Project consists of the following requirements:
 - No auth or cloud deployment is required
 - Must meet good-quality coding standards (indentation, scoping, naming, etc.)
 - Must deploy your repo to GitHub (professionally composed)
-- Must demonstrate all CRUD methodsMust be connected with your ReactJS app
+- Must demonstrate all CRUD methods
+- Must be connected with your ReactJS app
 - Must use a dotnet web serverMust be backed by a MySQL database seeded with your data from Project 3
 is required
+
+## Below is a screenshot of the ReactJS webpage
 
 ![alt text](ecomAdmin.png)
