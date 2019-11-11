@@ -13,6 +13,6 @@ Project 4 CSharp Ecommerce Admin Project consists of the following requirements:
 - Must use a dotnet web serverMust be backed by a MySQL database seeded with your data from Project 3
 is required
 
-## Below is a screenshot of the ReactJS webpage
+## Below is a screenshot of the ReactJS webpage, displaying all CRUD methods and functionality
 
 ![alt text](ecomAdmin.png)
